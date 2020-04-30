@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><ACORD>
+	<InsuranceSvcRq>
+		<PersAutoPolicyQuoteInqRq>
+			<InsuredOrPrincipal>
+				<ItemIdInfo>
+					<OtherIdentifier>
+						<OtherIdTypeCd>Insured</OtherIdTypeCd>
+					</OtherIdentifier>
+				</ItemIdInfo>
+				<GeneralPartyInfo>
+					<NameInfo>
+						<CommlName>
+							<CommercialName>Tyrion Spiegelman</CommercialName>
+						</CommlName>
+					</NameInfo>
+				</GeneralPartyInfo>
+				<InsuredOrPrincipalInfo>
+					<InsuredOrPrincipalRoleCd>Insured</InsuredOrPrincipalRoleCd>
+				</InsuredOrPrincipalInfo>
+			</InsuredOrPrincipal>
+			<PersPolicy id="PolicyLevel">
+				<PolicyNumber>4843607801</PolicyNumber>
+				<LOBCd>AUTOP</LOBCd>
+				<CurrentTermAmt>
+					<Amt>2135.19</Amt>
+				</CurrentTermAmt>
+			</PersPolicy>
+			<PersAutoLineBusiness>
+				<LOBCd>AUTOP</LOBCd>
+				<NAICCd>18988</NAICCd>
+				<RateEffectiveDt>2017-07-08</RateEffectiveDt>
+				<PersDriver id="D1">
+					<GeneralPartyInfo>
+						<NameInfo>
+							<CommlName>
+								<CommercialName>Tyrion Spiegelman</CommercialName>
+							</CommlName>
+						</NameInfo>
+					</GeneralPartyInfo>
+					<DriverInfo>
+						<PersonInfo>
+							<GenderCd>F</GenderCd>
+							<BirthDt>1959-01-01</BirthDt>
+							<MaritalStatusCd>M</MaritalStatusCd>
+						</PersonInfo>
+					</DriverInfo>
+				</PersDriver>
+				<PersVeh id="V1">
+					<Manufacturer>TOYT</Manufacturer>
+					<Model>AVALON XL/XLS/TR/LTD</Model>
+					<ModelYear>2006</ModelYear>
+				</PersVeh>
+				<PersVeh id="V2">
+					<Manufacturer>PASONS</Manufacturer>
+					<Model>FABRICATION</Model>
+					<ModelYear>2009</ModelYear>
+				</PersVeh>
+				<PersVeh id="V3">
+					<Manufacturer>TOYT</Manufacturer>
+					<Model>TACOMA DOUBLECAB</Model>
+					<ModelYear>2010</ModelYear>
+				</PersVeh>
+				<PersVeh id="V4">
+					<Manufacturer>VICTORY</Manufacturer>
+					<Model>VEGAS</Model>
+					<ModelYear>2010</ModelYear>
+				</PersVeh>
+				<PersVeh id="V5">
+					<Manufacturer>YAMAHA</Manufacturer>
+					<Model>XV365DB</Model>
+					<ModelYear>2013</ModelYear>
+				</PersVeh>
+			</PersAutoLineBusiness>
+		</PersAutoPolicyQuoteInqRq>
+		<PersAutoPolicyQuoteInqRq>
+			<InsuredOrPrincipal>
+				<ItemIdInfo>
+					<OtherIdentifier>
+						<OtherIdTypeCd>Insured</OtherIdTypeCd>
+					</OtherIdentifier>
+				</ItemIdInfo>
+				<GeneralPartyInfo>
+					<NameInfo>
+						<CommlName>
+							<CommercialName>Fred Flinstone</CommercialName>
+						</CommlName>
+					</NameInfo>
+				</GeneralPartyInfo>
+				<InsuredOrPrincipalInfo>
+					<InsuredOrPrincipalRoleCd>Insured</InsuredOrPrincipalRoleCd>
+				</InsuredOrPrincipalInfo>
+			</InsuredOrPrincipal>
+			<PersPolicy id="PolicyLevel">
+				<PolicyNumber>XT678</PolicyNumber>
+				<LOBCd>AUTOP</LOBCd>
+				<CurrentTermAmt>
+					<Amt>300</Amt>
+				</CurrentTermAmt>
+			</PersPolicy>
+			<PersAutoLineBusiness>
+				<LOBCd>AUTOP</LOBCd>
+				<NAICCd>18988</NAICCd>
+				<PersDriver id="D1">
+					<GeneralPartyInfo>
+						<NameInfo>
+							<CommlName>
+								<CommercialName>Fred Flinstone</CommercialName>
+							</CommlName>
+						</NameInfo>
+					</GeneralPartyInfo>
+					<DriverInfo>
+						<PersonInfo>
+							<GenderCd>M</GenderCd>
+							<BirthDt>1990-03-01</BirthDt>
+							<MaritalStatusCd>M</MaritalStatusCd>
+						</PersonInfo>
+					</DriverInfo>
+				</PersDriver>
+				<PersDriver id="D2">
+					<GeneralPartyInfo>
+						<NameInfo>
+							<CommlName>
+								<CommercialName>Wilma Flinstone</CommercialName>
+							</CommlName>
+						</NameInfo>
+					</GeneralPartyInfo>
+					<DriverInfo>
+						<PersonInfo>
+							<GenderCd>F</GenderCd>
+							<BirthDt>1993-03-01</BirthDt>
+							<MaritalStatusCd>M</MaritalStatusCd>
+						</PersonInfo>
+					</DriverInfo>
+				</PersDriver>
+				<PersVeh id="V1">
+					<Manufacturer>Chevy</Manufacturer>
+					<Model>VOLT</Model>
+					<ModelYear>2016</ModelYear>
+				</PersVeh>
+			</PersAutoLineBusiness>
+		</PersAutoPolicyQuoteInqRq>
+		<PersAutoPolicyQuoteInqRq>
+			<InsuredOrPrincipal>
+				<ItemIdInfo>
+					<OtherIdentifier>
+						<OtherIdTypeCd>Insured</OtherIdTypeCd>
+					</OtherIdentifier>
+				</ItemIdInfo>
+				<GeneralPartyInfo>
+					<NameInfo>
+						<CommlName>
+							<CommercialName>Fred Flinstone</CommercialName>
+						</CommlName>
+					</NameInfo>
+				</GeneralPartyInfo>
+				<InsuredOrPrincipalInfo>
+					<InsuredOrPrincipalRoleCd>Insured</InsuredOrPrincipalRoleCd>
+				</InsuredOrPrincipalInfo>
+			</InsuredOrPrincipal>
+			<PersPolicy id="PolicyLevel">
+				<PolicyNumber>YY567</PolicyNumber>
+				<LOBCd>AUTOP</LOBCd>
+				<CurrentTermAmt>
+					<Amt>3000.25</Amt>
+				</CurrentTermAmt>
+			</PersPolicy>
+			<PersAutoLineBusiness>
+				<LOBCd>AUTOP</LOBCd>
+				<NAICCd>18988</NAICCd>
+				<PersDriver id="D1">
+					<GeneralPartyInfo>
+						<NameInfo>
+							<CommlName>
+								<CommercialName>Mickey Mouse</CommercialName>
+							</CommlName>
+						</NameInfo>
+					</GeneralPartyInfo>
+					<DriverInfo>
+						<PersonInfo>
+							<GenderCd>M</GenderCd>
+							<BirthDt>1950-03-01</BirthDt>
+							<MaritalStatusCd>M</MaritalStatusCd>
+						</PersonInfo>
+					</DriverInfo>
+				</PersDriver>
+				<PersDriver id="D2">
+					<GeneralPartyInfo>
+						<NameInfo>
+							<CommlName>
+							</CommlName>
+						</NameInfo>
+					</GeneralPartyInfo>
+					<DriverInfo>
+						<PersonInfo>
+							<GenderCd>F</GenderCd>
+							<BirthDt>1956-03-30</BirthDt>
+							<MaritalStatusCd>M</MaritalStatusCd>
+						</PersonInfo>
+					</DriverInfo>
+				</PersDriver>
+				<PersDriver id="D1">
+					<GeneralPartyInfo>
+						<NameInfo>
+							<CommlName>
+								<CommercialName>Goofy</CommercialName>
+							</CommlName>
+						</NameInfo>
+					</GeneralPartyInfo>
+					<DriverInfo>
+						<PersonInfo>
+							<GenderCd>M</GenderCd>
+							<BirthDt>1959-03-01</BirthDt>
+							<MaritalStatusCd>S</MaritalStatusCd>
+						</PersonInfo>
+					</DriverInfo>
+				</PersDriver>
+				<PersVeh id="V1">
+					<Manufacturer>Ford</Manufacturer>
+					<Model>M0delT</Model>
+					<ModelYear>1912</ModelYear>
+				</PersVeh>
+				<PersVeh id="V3">
+					<Manufacturer>Rust</Manufacturer>
+					<Model>Bucket</Model>
+					<ModelYear>1950</ModelYear>
+				</PersVeh>
+			</PersAutoLineBusiness>
+		</PersAutoPolicyQuoteInqRq>
+	</InsuranceSvcRq>
+</ACORD>
