@@ -1,4 +1,4 @@
-# SpringFileMutation
+# Spring File Mutation
 Build a Spring Boot 2+ Service using Maven that consumes a xml file and returns a response containing information about the individual entries in the bulk file.
 
 ## Information 
