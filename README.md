@@ -2,14 +2,14 @@
 Build a Spring Boot 2+ Service using Maven that consumes a xml file and returns a response containing information about the individual entries in the bulk file.
 
 ## Information 
-The xml file attatched is broken into individual sets of information identified by the `</PersAutoPolicyQuoteInqRq>`tag.   Assume this solution will be "production ready" and should contain propper logging and test coverage.
+The xml file attatched is broken into individual sets of information identified by the `</PersAutoPolicyQuoteInqRq>`tag.   Assume this solution will be "production ready" and should contain propper logging and test coverage. Keep in mind that file sizes may varry and keep that in mind with your solution, scalability is key.
 
-The xpaths to build the responses can be found bellow : 
+The xpaths to build the responses can be found bellow : \
 Policy Number - `//PersPolicy/OtherOrPriorPolicy[PolicyCd = 'Prior']/PolicyNumber`\
 Customer Name - `//InsuredOrPrincipal[InsuredOrPrincipalInfo/InsuredOrPrincipalRoleCd='Insured']/GeneralPartyInfo/NameInfo/CommlName/CommercialName`\
 Policy Type - `//PersPolicy/LOBCd`\
 Total Premium - `//PersPolicy/CurrentTermAmt/Amt` \
-Vehicle Collection - `//PersAutoLineBusiness/PersVeh`
+Vehicle Collection - `//PersAutoLineBusiness/PersVeh`\
 Driver Collection - `//PersAutoLineBusiness/DriverInfo`\
 
 
